@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\BotApplication\BotApplication\bin\Debug\BotApplication.exe.config
+C:\Users\Asus\Desktop\BotApplication\BotApplication\bin\Debug\BotApplication.exe
+C:\Users\Asus\Desktop\BotApplication\BotApplication\bin\Debug\BotApplication.pdb
+C:\Users\Asus\Desktop\BotApplication\BotApplication\obj\Debug\BotApplication.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\BotApplication\BotApplication\obj\Debug\BotApplication.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BotApplication\BotApplication\obj\Debug\BotApplication.exe
+C:\Users\Asus\Desktop\BotApplication\BotApplication\obj\Debug\BotApplication.pdb
